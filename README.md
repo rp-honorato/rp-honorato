@@ -1,16 +1,15 @@
-# 💫 About Me:
+# 💫 ABOUT ME:
 
 👋 Hi, I'm Pedro Honorato
 
 
-👨‍💻 Passionate about foreign languages, the open source world and the SAP technological ecosystem, currently living in Lisbon.
+👨‍💻 Passionate about the open source world and the SAP technological ecosystem, currently living in Lisbon.
 
 
 🔭 I'm currently expanding my knowledge in ABAP, UI5 and Javascript.
 
 
 👨‍💻 All of my projects are available here in [https://github.com/rp-honorato?tab=repositories](https://github.com/rp-honorato?tab=repositories)
-
 
 
 ## 💻 MY TECH SKILLS:
