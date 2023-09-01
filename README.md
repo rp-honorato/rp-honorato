@@ -3,7 +3,7 @@
 👋 Hi, I'm Pedro Honorato
 
 
-👨‍💻 Passionate about the open source world and the SAP technology ecosystem, currently living in Lisbon.
+👨‍💻 Passionate about foreign languages, the open source world and the SAP technological ecosystem, currently living in Lisbon.
 
 
 🔭 I'm currently expanding my knowledge in ABAP, UI5 and Javascript.
@@ -27,12 +27,7 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-##
-
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rp-honorato&icon=0&color=0)](https://visitcount.itsvg.in)
