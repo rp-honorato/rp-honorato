@@ -21,17 +21,6 @@
 
 
 
-## 💻 EDUCATION:
-![freeCodeCamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white) 
-
-
-### 🌎 LANGUAGES:
-
--:brazil:
-- 🇩🇪
-
-
-
 #### 🌐 Socials:
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
@@ -42,5 +31,5 @@
 ## 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rp-honorato&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
