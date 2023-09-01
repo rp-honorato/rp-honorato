@@ -11,7 +11,7 @@
 
 👨‍💻 All of my projects are available here in [https://github.com/rp-honorato?tab=repositories](https://github.com/rp-honorato?tab=repositories)
 
-# 💻 Tech Skills:
+## 💻 Tech Skills:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
