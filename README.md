@@ -28,6 +28,7 @@
 ### 🌎 LANGUAGES:
 
 -:brazil:
+- 🇩🇪
 
 
 
