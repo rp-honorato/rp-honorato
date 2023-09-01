@@ -1,9 +1,13 @@
-# 💫 About Me:
-<h1 align="left">Hi 👋, I'm Pedro Honorato</h1><br><h3 align="left">Passionate about the open source world and the SAP technology ecosystem, currently living in Lisbon.</h3><br><br>- 🔭 I’m currently working on **personal projects**<br><br>- 👨‍💻 All of my projects are available at [https://github.com/rp-honorato?tab=repositories](https://github.com/rp-honorato?tab=repositories)<br><br><h3 align="left">Connect with me:</h3><br><p align="left"><br></p><br>
+## 💫 About Me:
+
+👋 Hi, I'm Pedro Honorato
+👨‍💻 Passionate about the open source world and the SAP technology ecosystem, currently living in Lisbon.
+🔭 I'm currently expanding my knowledge in ABAP, UI5 and Javascript.
+👨‍💻 All of my projects are available here in [https://github.com/rp-honorato?tab=repositories](https://github.com/rp-honorato?tab=repositories)
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pedro-honorato/) 
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pedro-honorato/) 
 
 ## 🌐 Education:
 [![freeCodeCamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white) 
