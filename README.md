@@ -24,3 +24,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rp-honorato&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
+![Snake animation](https://github.com/rp-honorato/rp-honorato/blob/output/github-contribution-grid-snake.svg)
