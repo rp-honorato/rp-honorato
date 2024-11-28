@@ -1,24 +1,34 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+# Pedro Honorato
 
-###
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frp-honorato%2Frp-honorato&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/d7/64/84/d76484f755763b87d45ec9c56e21b37c.gif"  />
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/pedro-honorato//)
 
-###
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rpedro.honorato@gmail.com)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+[![Github](https://img.shields.io/github/followers/rp-honorato?label=Follow&style=social)](https://github.com/rp-honorato)
+
+- 💻 Olá, me chamo Pedro e sou um desenvolvedor SAP Brasileiro atualmente vivendo em Portugal. 
+
+- 🤔 Tenho conhecimentos em: ABAP, JAVASCRIPT e UI5
+
+- 📫 Como me contatar?: rpedro.honorato@gmail.com
+
+### 🖥 Skills
+
+- ABAP
+- Fiori
+- SAP UI5
+- Javascript
+### ⚙️ Tech Stack
+
+![Bootstrap](https://img.shields.io/badge/-ABAP-05122A?style=flat-square&logo=ABAP&color=353535) ![Bootstrap](https://img.shields.io/badge/-Javascript-05122A?style=flat-square&logo=Javascript&color=353535) ![Bootstrap](https://img.shields.io/badge/-UI5-05122A?style=flat-square&logo=UI5&color=353535)
+
+<div>
+  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rp-honorato&show_icons=true&locale=en&layout=compact" alt="rp-honorato" />
+  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=rp-honorato&" alt="rp-honorato" />
 </div>
 
-###
 
-<div align="left">
-  <a href="rpedro.honorato@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/pedro-honorato/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
+---
+:zap: To generate a `README.md` file like this for your profile, checkout [Github Readme Generator](https://hejazizo-github-profile-readme-srcstreamlit-app-i6skm7.streamlit.app/).
