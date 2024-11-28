@@ -1,27 +1,23 @@
-# 💫 ABOUT ME:
+<h1 align="center">Hi 👋, I'm Pedro Honorato</h1>
+<h3 align="center">A Brazilian SAP developer currently living in Portugal.</h3>
 
-👋 Hi, I'm Pedro Honorato e sou um desenvolvedor SAP,
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rp-honorato&label=Profile%20views&color=0e75b6&style=flat" alt="rp-honorato" /> </p>
 
+- 🔭 I’m currently working on **Personal Projects**
 
-👨‍💻 Passionate about the open source world and the SAP technological ecosystem, currently living in Lisbon.
+- 💬 Ask me about **my tech skills!**
 
+- 📫 How to reach me **rpedro.honorato@gmail.com**
 
-🔭 I'm currently expanding my knowledge in ABAP, UI5 and Javascript.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
-## 💻 MY SKILLS:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rp-honorato&show_icons=true&locale=en&layout=compact" alt="rp-honorato" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rp-honorato&show_icons=true&locale=en" alt="rp-honorato" /></p>
 
-
-### 🌐 SOCIALS:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-honorato/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rpedro.honorato@gmail.com)
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rp-honorato&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
-![Snake animation](https://github.com/rp-honorato/rp-honorato/blob/output/github-contribution-grid-snake.svg)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rp-honorato&" alt="rp-honorato" /></p>
