@@ -1,6 +1,6 @@
 # 💫 ABOUT ME:
 
-👋 Hi, I'm Pedro Honorato
+👋 Hi, I'm Pedro Honorato e sou um desenvolvedor SAP,
 
 
 👨‍💻 Passionate about the open source world and the SAP technological ecosystem, currently living in Lisbon.
@@ -9,10 +9,7 @@
 🔭 I'm currently expanding my knowledge in ABAP, UI5 and Javascript.
 
 
-👨‍💻 All of my projects are available here in [https://github.com/rp-honorato?tab=repositories](https://github.com/rp-honorato?tab=repositories)
-
-
-## 💻 MY TECH SKILLS:
+## 💻 MY SKILLS:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 
@@ -25,8 +22,5 @@
 
 
 
-## 
-
----
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
