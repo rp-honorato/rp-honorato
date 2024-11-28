@@ -1,23 +1,24 @@
-<h1 align="center">Hi 👋, I'm Pedro Honorato</h1>
-<h3 align="center">A Brazilian SAP developer currently living in Portugal.</h3>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rp-honorato&label=Profile%20views&color=0e75b6&style=flat" alt="rp-honorato" /> </p>
+###
 
-- 🔭 I’m currently working on **Personal Projects**
+<img align="right" height="150" src="https://i.pinimg.com/originals/d7/64/84/d76484f755763b87d45ec9c56e21b37c.gif"  />
 
-- 💬 Ask me about **my tech skills!**
+###
 
-- 📫 How to reach me **rpedro.honorato@gmail.com**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+<div align="left">
+  <a href="rpedro.honorato@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/pedro-honorato/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rp-honorato&show_icons=true&locale=en&layout=compact" alt="rp-honorato" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rp-honorato&show_icons=true&locale=en" alt="rp-honorato" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rp-honorato&" alt="rp-honorato" /></p>
+###
