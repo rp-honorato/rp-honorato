@@ -36,11 +36,7 @@
 
 
 # Estou estudando - I am currently studying:
-
-- ABAP
-- Fiori
-- SAP UI5
-- Javascript
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 # Veja minhas métricas - See my stats📊:
 
