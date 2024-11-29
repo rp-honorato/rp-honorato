@@ -23,8 +23,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs)](https://skillicons.dev)
 
 ### Veja minhas métricas - See my stats:
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="200px" alt="Veja minhas métricas - See my stats">
 
 <div align="center">
 <a href="https://github.com/rp-honorato">
