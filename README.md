@@ -5,7 +5,6 @@
 
 [![Github](https://img.shields.io/github/followers/rp-honorato?label=Follow&style=social)](https://github.com/rp-honorato)
 
-
 <p align="left"> 
    <strong> Hi, my name is Pedro and I'm a Brazilian currently living in Portugal.</strong>.<br>
    <p> 
@@ -33,7 +32,6 @@
   <a href="#" title="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
 </p>
-
 
 <div>
 <a href="https://github.com/rp-honorato">
