@@ -5,7 +5,7 @@
 
 <p align="left"> 
    <strong> Hi, my name is Pedro and I'm a Brazilian SAP developer currently living in Portugal.</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+   I currently study web development with a focus on improving my skills as an SAP Fullstack developer.
 </p>
 
 <p align="left">
