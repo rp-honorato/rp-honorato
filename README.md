@@ -5,7 +5,9 @@
 
 <p align="left"> 
    <strong> Hi, my name is Pedro and I'm a Brazilian currently living in Portugal.</strong>.<br>
+   <p> 
    I currently study web development with a focus on improving my skills as an SAP Fullstack developer.
+   <p>
 </p>
 
 <p align="left">
