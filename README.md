@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
+  💻 Languages: ** .**
 </p>
 
 <p align="left">
