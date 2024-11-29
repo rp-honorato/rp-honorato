@@ -1,25 +1,20 @@
 # Olá, eu sou o Pedro. Seja bem vindo(a)!
 
 <p align="left"> 
-   <strong> Hi, my name is Pedro and I'm a Brazilian currently living in Portugal.</strong>.<br>
+   <strong> Hi, my name is Pedro and I'm a Brazilian currently living in Portugal.</strong><br>
    <p> 
    <strong>I currently study web development with a focus on improving my skills as an SAP Fullstack developer.</strong>
    <p>
 </p>
-
 <p align="left">
   <strong>Languages</strong>: HTML, CSS, Javascript, ABAP, SAP UI5.
 </p>
-
 <p align="left">
   <strong>Tools</strong>: VSCode, SAP ERP, SAP Fiori.
 </p>
 
 ## Me encontre em - contact me here: 
-
 <div>
-
-
 <a href = "mailto:rpedro.honorato@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/pedro-honorato" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
