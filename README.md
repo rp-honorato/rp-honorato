@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  💻 <strong>Languages</strong>: HTML, CSS, JAVASCRIPT, SAP UI5, ABAP.
+  💻 <strong>Languages</strong>: Html, CSS, Javascript, ABAP, SAP UI5.
 </p>
 
 <p align="left">
