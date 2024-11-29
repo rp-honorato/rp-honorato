@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Faça uma breve apresentação sua com o seu nome e não esqueça a <strong>sua stack</strong>.<br>
+   <strong> Hi, my name is Pedro and I'm a Brazilian SAP developer currently living in Portugal.</strong>.<br>
   Diga o que você está fazendo no momento, se trabalha ou estuda.
 </p>
 
