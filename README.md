@@ -34,9 +34,6 @@
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" width=800px" alt="Veja minhas métricas - See my stats">
 </div>
 
-## Technologies
-Project is created with:
-* Lorem version: 12.3
-* Ipsum version: 2.33
-* Ament library version: 99
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
