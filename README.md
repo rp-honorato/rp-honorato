@@ -41,5 +41,3 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?rp-honorato=rp-honorato)](https://github.com/rp-honorato/github-readme-stats)
