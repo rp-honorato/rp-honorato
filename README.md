@@ -51,5 +51,5 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rp-honorato/&theme=tokyonight" alt="mystreak" align="center"/>
 </div>
 
-
+<img src="https://widgetbite.com/stats/{random-guid}" alt="watching_count" />
 
