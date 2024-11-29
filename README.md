@@ -1,4 +1,4 @@
-#👋 Olá, eu sou o Pedro. Seja bem vindo(a)!
+# Olá, eu sou o Pedro. Seja bem vindo(a)!
 
 <p align="left"> 
    <strong> Hi, my name is Pedro and I'm a Brazilian currently living in Portugal.</strong><br>
@@ -13,16 +13,16 @@
   <strong>Tools</strong>: VSCode, SAP ERP, SAP Fiori.
 </p>
 
-##🌐 Me encontre em - contact me here: 
+## Me encontre em - contact me here: 
 <div>
 <a href = "mailto:rpedro.honorato@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/pedro-honorato" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-📚 Estou estudando - I am currently studying:
+# Estou estudando - I am currently studying:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs)](https://skillicons.dev)
 
-📊Veja minhas métricas - See my stats:
+# Veja minhas métricas - See my stats:
 <div align="center" style="margin: 20px;">
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" width=800px" alt="Veja minhas métricas - See my stats">
 </div>
