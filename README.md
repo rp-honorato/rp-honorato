@@ -18,7 +18,7 @@
   <strong>Tools</strong>: VSCode, SAP ERP, SAP Fiori.
 </p>
 
-# Me contate em - Contact me here:
+
 
 # Estou estudando - I am currently studying:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs)](https://skillicons.dev)
