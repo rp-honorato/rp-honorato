@@ -2,7 +2,6 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-[![Github](https://img.shields.io/github/followers/rp-honorato?label=Follow&style=social)](https://github.com/rp-honorato)
 
 <p align="left"> 
    <strong> Hi, my name is Pedro and I'm a Brazilian currently living in Portugal.</strong>.<br>
