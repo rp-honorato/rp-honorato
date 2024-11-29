@@ -22,7 +22,7 @@
 </p>
 
 <p align="left">
-  How to contact me?: rpedro.honorato@gmail.com
+ 📧 <strong>How to contact me?</strong> rpedro.honorato@gmail.com
 </p>
 
 <p align="left">
