@@ -19,7 +19,7 @@
 </p>
 
 <p align="left">
- 📧 <strong>How to contact me?</strong> rpedro.honorato@gmail.com
+ 📧 <strong>You can contact-me here👇</strong> rpedro.honorato@gmail.com
 </p>
 
 <p align="left">
