@@ -1,4 +1,4 @@
-# Pedro Honorato
+# Hello, I'm Pedro Honorato
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/pedro-honorato//)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rpedro.honorato@gmail.com)
@@ -10,13 +10,15 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=rp-honorato&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
 </div>
 
+# About me
+
 - 💻 Olá, me chamo Pedro e sou um desenvolvedor SAP Brasileiro atualmente vivendo em Portugal. 
 
 - 🤔 Tenho conhecimentos em: ABAP, JAVASCRIPT e UI5
 
 - 📫 Como me contatar?: rpedro.honorato@gmail.com
 
-### 🖥 Skills
+# Main skills
 
 - ABAP
 - Fiori
