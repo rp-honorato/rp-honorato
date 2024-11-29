@@ -1,8 +1,5 @@
 # Olá, eu sou o Pedro. Seja bem vindo(a)!
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
-
 <p align="left"> 
    <strong> Hi, my name is Pedro and I'm a Brazilian currently living in Portugal.</strong>.<br>
    <p> 
