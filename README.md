@@ -36,14 +36,14 @@
 
 
 # Estou estudando - I am currently studying:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs)](https://skillicons.dev)
 
 # Veja minhas métricas - See my stats📊:
 
 <div>
 <a href="https://github.com/rp-honorato">
-<img loading="lazy" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rp-honorato&layout=compact&langs_count=7&theme=nightowl"/>
-<img loading="lazy" height="190em" src="https://github-readme-stats.vercel.app/api?username=rp-honorato&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rp-honorato&layout=compact&langs_count=7&theme=nightowl"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=rp-honorato&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
 </div>
    
 # 
