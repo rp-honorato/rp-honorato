@@ -19,15 +19,15 @@
 <a href="https://www.linkedin.com/in/pedro-honorato" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-# Estou estudando - I am currently studying:
+### Estou estudando - I am currently studying:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs)](https://skillicons.dev)
 
-# Veja minhas métricas - See my stats:
+#### Veja minhas métricas - See my stats:
 <div align="center">
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" width=800px" alt="Veja minhas métricas - See my stats">
 </div>
 
-##
+####
 <div align="center" >
 <a href="https://github.com/rp-honorato">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rp-honorato&layout=compact&langs_count=7&theme=nightowl"/>
