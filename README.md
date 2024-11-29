@@ -25,6 +25,7 @@
 ![Bootstrap](https://img.shields.io/badge/-ABAP-05122A?style=flat-square&logo=ABAP&color=353535) ![Bootstrap](https://img.shields.io/badge/-Javascript-05122A?style=flat-square&logo=Javascript&color=353535) ![Bootstrap](https://img.shields.io/badge/-UI5-05122A?style=flat-square&logo=UI5&color=353535)
 
 <div>
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rp-honorato&show_icons=true&locale=en&layout=compact" alt="rp-honorato" />
-  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=rp-honorato&" alt="rp-honorato" />
+<a href="https://github.com/rp-honorato">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rp-honorato&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=rp-honorato&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
