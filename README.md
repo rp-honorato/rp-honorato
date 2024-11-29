@@ -31,6 +31,6 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=rp-honorato&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
 </div>
 
-#
+
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
