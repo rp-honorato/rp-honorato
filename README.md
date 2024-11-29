@@ -42,3 +42,4 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?rp-honorato=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
