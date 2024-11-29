@@ -6,8 +6,8 @@
 
 <div>
 <a href="https://github.com/rp-honorato">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rp-honorato&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=rp-honorato&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rp-honorato&layout=compact&langs_count=7&theme=shadow_red"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=rp-honorato&show_icons=true&theme=shadow_red&include_all_commits=true&count_private=true"/>
 </div>
 
 - 💻 Olá, me chamo Pedro e sou um desenvolvedor SAP Brasileiro atualmente vivendo em Portugal. 
