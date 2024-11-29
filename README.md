@@ -14,11 +14,11 @@
 </p>
 
 <p align="left">
-  💻 <strong>Languages</strong>: Html, CSS, Javascript, ABAP, SAP UI5.
+  💻 <strong>Languages</strong>: HTML, CSS, Javascript, ABAP, SAP UI5.
 </p>
 
 <p align="left">
-  💼 <strong>Tools</strong>: VSCODE, SAP FIORI, SAP ERP.
+  💼 <strong>Tools</strong>: VSCode, SAP ERP, SAP Fiori.
 </p>
 
 <p align="left">
