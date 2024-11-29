@@ -31,7 +31,7 @@
 
 ##
 <div align="center">
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width=800px" alt="Veja minhas métricas - See my stats">
+<img src="./profile-3d-contrib/profile-night-green.svg" width=800px" alt="Veja minhas métricas - See my stats">
 </div>
 
 <!--START_SECTION:waka-->
