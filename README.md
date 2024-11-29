@@ -34,11 +34,6 @@
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
 </p>
 
-<div>
-<a href="https://github.com/rp-honorato">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rp-honorato&layout=compact&langs_count=7&theme=nightowl"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=rp-honorato&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-</div>
 
 # I am currently studying:
 
@@ -49,4 +44,10 @@
 
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+<div>
+<a href="https://github.com/rp-honorato">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rp-honorato&layout=compact&langs_count=7&theme=nightowl"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=rp-honorato&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+</div>
    
