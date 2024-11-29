@@ -42,4 +42,4 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rp-honorato)](https://github.com/rp-honorato/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?rp-honorato=rp-honorato)](https://github.com/rp-honorato/github-readme-stats)
