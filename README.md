@@ -1,16 +1,16 @@
 # Olá, eu sou o Pedro. Seja bem vindo(a)!
 
 <p align="left"> 
-   <strong> Hi, my name is Pedro and I'm a Brazilian currently living in Portugal.</strong><br>
+   <strong>🙋🏻 Hi, my name is Pedro and I'm a Brazilian currently living in Portugal.</strong><br>
    <p> 
-   <strong>I currently study web development with a focus on improving my skills as an SAP Fullstack developer.</strong>
+   <strong>📚 I currently study web development with a focus on improving my skills as an SAP Fullstack developer.</strong>
    <p>
 </p>
 <p align="left">
-  <strong>Languages</strong>: HTML, CSS, Javascript, ABAP, SAP UI5.
+  <strong>💻Languages</strong>: HTML, CSS, Javascript, ABAP, SAP UI5.
 </p>
 <p align="left">
-  <strong>Tools</strong>: VSCode, SAP ERP, SAP Fiori.
+  <strong>🛠️Tools</strong>: VSCode, SAP ERP, SAP Fiori.
 </p>
 
 ## Me encontre em - contact me here: 
