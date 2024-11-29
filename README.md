@@ -1,7 +1,7 @@
 # Welcome!
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frp-honorato%2Frp-honorato&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
-<img src="https://i.ebayimg.com/images/g/jBoAAOSwR6xkjORY/s-l1200.png" alt="ilustração de um computador" min-width="100px" max-width="100px" width="100px" align="right">
+<img src="https://i.pinimg.com/originals/2f/4c/dc/2f4cdc254cd328ef01747b109e00fff9.png" alt="ilustração de um computador" min-width="100px" max-width="200px" width="200px" align="right">
 
 [![Github](https://img.shields.io/github/followers/rp-honorato?label=Follow&style=social)](https://github.com/rp-honorato)
 
