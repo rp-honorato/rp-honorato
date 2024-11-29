@@ -42,7 +42,7 @@
 - SAP UI5
 - Javascript
 
-# Veja minhas métricas - See my stats:
+# Veja minhas métricas - See my stats📊:
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <div>
