@@ -16,7 +16,8 @@
 </p>
 
 ## Me encontre em - contact me here: 
-# Estou estudando - I am currently studying:
+
+### Estou estudando - I am currently studying:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs)](https://skillicons.dev)
 
 ### Veja minhas métricas - See my stats:
