@@ -39,14 +39,17 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=rp-honorato&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
 </div>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rp-honorato/&theme=tokyonight" alt="mystreak"/>
-
 # I am currently studying:
 
 - ABAP
 - Fiori
 - SAP UI5
 - Javascript
+
+   
+<div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rp-honorato/&theme=tokyonight" alt="mystreak" align="center"/>
+</div>
 
 
 
