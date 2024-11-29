@@ -2,6 +2,8 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frp-honorato%2Frp-honorato&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+[![Github](https://img.shields.io/github/followers/rp-honorato?label=Follow&style=social)](https://github.com/rp-honorato)
+
 
 <p align="left"> 
    <strong> Hi, my name is Pedro and I'm a Brazilian currently living in Portugal.</strong>.<br>
@@ -31,9 +33,6 @@
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
 </p>
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/pedro-honorato//)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rpedro.honorato@gmail.com)
-[![Github](https://img.shields.io/github/followers/rp-honorato?label=Follow&style=social)](https://github.com/rp-honorato)
 
 <div>
 <a href="https://github.com/rp-honorato">
