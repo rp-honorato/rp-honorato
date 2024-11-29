@@ -1,7 +1,7 @@
 # Welcome!
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frp-honorato%2Frp-honorato&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
-<img src="https://images.saymedia-content.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cq_auto:eco%2Cw_1200/MTc2NDU5ODE3NzE0ODUzMDc3/7-anime-themes-closely-related-to-ergo-proxy.gif" alt="ilustração de um computador" min-width="100px" max-width="100px" width="400px" align="right">
+<img src="https://i.ebayimg.com/images/g/jBoAAOSwR6xkjORY/s-l1200.png" alt="ilustração de um computador" min-width="100px" max-width="100px" width="100px" align="right">
 
 [![Github](https://img.shields.io/github/followers/rp-honorato?label=Follow&style=social)](https://github.com/rp-honorato)
 
