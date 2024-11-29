@@ -47,8 +47,6 @@
 - Fiori
 - SAP UI5
 - Javascript
-### ⚙️ Tech Stack
 
-![Bootstrap](https://img.shields.io/badge/-ABAP-05122A?style=flat-square&logo=ABAP&color=353535) ![Bootstrap](https://img.shields.io/badge/-Javascript-05122A?style=flat-square&logo=Javascript&color=353535) ![Bootstrap](https://img.shields.io/badge/-UI5-05122A?style=flat-square&logo=UI5&color=353535)
 
 
