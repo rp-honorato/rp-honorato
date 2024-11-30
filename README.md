@@ -23,13 +23,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs)](https://skillicons.dev)
 
 ## Veja minhas métricas - See my stats:
-<div align="center" >
-<a href="https://github.com/rp-honorato">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rp-honorato&layout=compact&langs_count=7&theme=nightowl"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=rp-honorato&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-</div>
-   
-##
+
 <!--START_SECTION:waka-->
 
 ```txt
@@ -37,6 +31,14 @@ JavaScript   2 mins          █████████████████
 ```
 
 <!--END_SECTION:waka-->
+
+##
+<div align="center" >
+<a href="https://github.com/rp-honorato">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rp-honorato&layout=compact&langs_count=7&theme=nightowl"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=rp-honorato&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+</div>
+   
 
 ##
 <div align="center">
