@@ -34,6 +34,7 @@
 <img src="./profile-3d-contrib/profile-night-green.svg" width=800px" alt="Veja minhas métricas - See my stats">
 </div>
 
+##
 <!--START_SECTION:waka-->
 
 ```txt
