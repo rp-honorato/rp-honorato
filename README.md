@@ -7,10 +7,10 @@
    <p>
 </p>
 <p align="left">
-  <strong>💻Languages</strong>: HTML, CSS, Javascript, ABAP, SAP UI5.
+  <strong>💻 Languages</strong>: HTML, CSS, Javascript, ABAP, SAP UI5.
 </p>
 <p align="left">
-  <strong>🛠️Tools</strong>: VSCode, SAP ERP, SAP Fiori.
+  <strong>🛠️ Tools</strong>: VSCode, SAP ERP, SAP Fiori.
 </p>
 
 ## Me encontre em - contact me here: 
