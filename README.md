@@ -1,6 +1,6 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&height=124&color=gradient&reversal=false&fontAlign=79&fontAlignY=33)
+![Header]([https://capsule-render.vercel.app/api?type=waving&height=124&color=gradient&reversal=false&fontAlign=79&fontAlignY=33](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Hello,I'm%20Pedro!&reversal=false&fontAlign=67&fontAlignY=39&section=header&animation=fadeIn&fontColor=%20000000))
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20F726&width=435&lines=Hello%2C+I'm+Pedro.)](https://git.io/typing-svg)
+#
 <p align="left"> 
    <strong>🙋🏻 Hi, my name is Pedro and I'm a Brazilian currently living in Portugal.</strong><br>
    <p> 
