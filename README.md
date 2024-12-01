@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20F726&width=435&lines=Hello%2C+I'm+Pedro.)](https://git.io/typing-svg)
+#[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20F726&width=435&lines=Hello%2C+I'm+Pedro.)](https://git.io/typing-svg)
 
 <p align="left"> 
    <strong>🙋🏻 Hi, my name is Pedro and I'm a Brazilian currently living in Portugal.</strong><br>
