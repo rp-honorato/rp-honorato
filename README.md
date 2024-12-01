@@ -1,6 +1,5 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Hello,I'm%20Pedro!&reversal=false&fontAlign=67&fontAlignY=39&section=header&animation=fadeIn&fontColor=%20000000)
 
-#
 <p align="left"> 
    <strong>🙋🏻 Hi, my name is Pedro and I'm a Brazilian currently living in Portugal.</strong><br>
    <p> 
