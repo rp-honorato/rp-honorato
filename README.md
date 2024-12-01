@@ -1,4 +1,4 @@
-![Header]([https://capsule-render.vercel.app/api?type=waving&height=124&color=gradient&reversal=false&fontAlign=79&fontAlignY=33](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Hello,I'm%20Pedro!&reversal=false&fontAlign=67&fontAlignY=39&section=header&animation=fadeIn&fontColor=%20000000))
+![Header](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Hello,I'm%20Pedro!&reversal=false&fontAlign=67&fontAlignY=39&section=header&animation=fadeIn&fontColor=%20000000)
 
 #
 <p align="left"> 
