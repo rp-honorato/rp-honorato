@@ -13,7 +13,7 @@
   <strong>🛠️ Tools</strong>: VSCode, SAP ERP, SAP Fiori.
 </p>
 
-## Me encontre em - contact me here: 
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20F726&width=435&lines=Me+encontre+em+-+contact+me+here%3A+)](https://git.io/typing-svg)
 <div>
 <a href = "mailto:rpedro.honorato@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/pedro-honorato" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
