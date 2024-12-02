@@ -19,7 +19,7 @@
 </div>
 
 ## Estou estudando - I am currently studying:
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,html,css,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,html,css)](https://skillicons.dev)
 
 ## Veja minhas métricas - See my stats:
 
