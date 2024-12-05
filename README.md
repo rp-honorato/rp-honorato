@@ -35,7 +35,6 @@ JSON         29 mins         █░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-<figure><embed src="https://wakatime.com/share/@04fa2832-6250-4ae7-9cf5-8c754f1021e0/8e078cc9-099e-4e83-b92f-a40493f77abb.svg"></embed></figure>
 
 ##
 <div align="center" >
