@@ -21,7 +21,7 @@
 ## Estou estudando - I am currently studying:
 <div style="display:inline-block">
   
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,html,css,react,mongodb,prisma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,html,css,react,mongodb)](https://skillicons.dev)
 
 </div>
 
