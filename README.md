@@ -19,7 +19,15 @@
 </div>
 
 ## Estou estudando - I am currently studying:
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,mongodb,html,css)](https://skillicons.dev)
+<div style="display:inline-block">
+  
+  [<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40" />](## "JavaScript")
+  [<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>](## "NodeJS")
+  [<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40" />](## "HTML")
+  [<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40" />](## "CSS")
+
+          
+</div>
 
 ## Veja minhas métricas - See my stats:
 
