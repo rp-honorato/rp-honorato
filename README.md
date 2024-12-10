@@ -52,4 +52,3 @@ CSS          39 mins         █░░░░░░░░░░░░░░░░
 <img src="./profile-3d-contrib/profile-night-green.svg" width=800px" alt="Veja minhas métricas - See my stats">
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=124&color=gradient&reversal=false&fontAlign=79&fontAlignY=33&section=footer)
