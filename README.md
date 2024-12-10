@@ -46,15 +46,33 @@ CSS          39 mins         █░░░░░░░░░░░░░░░░
 
 
 ##
-<div align="center" >
-<a href="https://github.com/rp-honorato">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rp-honorato&layout=compact&langs_count=7&theme=holi"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=rp-honorato&show_icons=true&theme=holi&include_all_commits=true&count_private=true"/>
-<img src="https://raw.githubusercontent.com/rp-honorato/rp-honorato/main/profile-summary-card-output/blue_green/0-profile-details.svg" width=800px alt="Profile Details">
-</div>
-   
-##
 <div align="center">
-<img src="./profile-3d-contrib/profile-night-green.svg" width=800px" alt="Veja minhas métricas - See my stats">
+  <a href="https://github.com/rp-honorato">
+    <img 
+      loading="lazy" 
+      height="180em" 
+      style="margin: 10px; border: 2px solid #ccc; border-radius: 5px;" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rp-honorato&layout=compact&langs_count=7&theme=holi"
+    />
+    <img 
+      loading="lazy" 
+      height="180em" 
+      style="margin: 10px; border: 2px solid #ccc; border-radius: 5px;" 
+      src="https://github-readme-stats.vercel.app/api?username=rp-honorato&show_icons=true&theme=holi&include_all_commits=true&count_private=true"
+    />
+    <img 
+      src="https://raw.githubusercontent.com/rp-honorato/rp-honorato/main/profile-summary-card-output/blue_green/0-profile-details.svg" 
+      style="margin: 10px; border: 2px solid #ccc; border-radius: 5px; width: 800px;" 
+      alt="Profile Details"
+    />
+  </a>
 </div>
 
+##
+<div align="center">
+  <img 
+    src="./profile-3d-contrib/profile-night-green.svg" 
+    style="margin: 10px; border: 2px solid #ccc; border-radius: 5px; width: 800px;" 
+    alt="Veja minhas métricas - See my stats"
+  />
+</div>
