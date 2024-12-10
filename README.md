@@ -40,8 +40,9 @@ CSS          39 mins         █░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 ##
-
+<div align="center">
 [![](https://raw.githubusercontent.com/rp-honorato/rp-honorato/main/profile-summary-card-output/aura/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+</div>
 
 ##
 <div align="center" >
