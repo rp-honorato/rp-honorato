@@ -40,9 +40,9 @@ CSS          39 mins         █░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 ##
-```
+
 ![](https://raw.githubusercontent.com/rp-honorato/rp-honorato/main/profile-summary-card-output/blue_green/0-profile-details.svg)
-```
+
 
 
 ##
