@@ -41,7 +41,7 @@ CSS          39 mins         █░░░░░░░░░░░░░░░░
 
 ##
 <div align="center">
-
+<img src="https://raw.githubusercontent.com/rp-honorato/rp-honorato/main/profile-summary-card-output/blue_green/0-profile-details.svg" margin=10px width=800px alt="Profile Details">
 </div>
 
 
@@ -50,9 +50,6 @@ CSS          39 mins         █░░░░░░░░░░░░░░░░
 <a href="https://github.com/rp-honorato">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rp-honorato&layout=compact&langs_count=7&theme=holi"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=rp-honorato&show_icons=true&theme=holi&include_all_commits=true&count_private=true"/>
-<div margin=10px>
-<img src="https://raw.githubusercontent.com/rp-honorato/rp-honorato/main/profile-summary-card-output/blue_green/0-profile-details.svg" margin=10px width=800px alt="Profile Details">
-</div>
 </div>
    
 ##
