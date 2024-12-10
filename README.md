@@ -40,8 +40,8 @@ CSS          39 mins         █░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 ##
-<div style="display:inline-block">
-![](https://raw.githubusercontent.com/rp-honorato/rp-honorato/main/profile-summary-card-output/blue_green/0-profile-details.svg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rp-honorato/rp-honorato/main/profile-summary-card-output/blue_green/0-profile-details.svg" alt="Profile Details">
 </div>
 
 
