@@ -40,7 +40,7 @@ CSS          39 mins         █░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 ##
-<div align="center">
+<div align="center" margin-top>
 <img src="https://raw.githubusercontent.com/rp-honorato/rp-honorato/main/profile-summary-card-output/blue_green/0-profile-details.svg" margin=10px width=800px alt="Profile Details">
 </div>
 
