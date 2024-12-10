@@ -41,7 +41,7 @@ CSS          39 mins         █░░░░░░░░░░░░░░░░
 
 ##
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rp-honorato/rp-honorato/main/profile-summary-card-output/blue_green/0-profile-details.svg" width=400px alt="Profile Details">
+  <img src="https://raw.githubusercontent.com/rp-honorato/rp-honorato/main/profile-summary-card-output/blue_green/0-profile-details.svg" width=900px alt="Profile Details">
 </div>
 
 
