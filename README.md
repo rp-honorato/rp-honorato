@@ -20,11 +20,10 @@
 
 ## Estou estudando - I am currently studying:
 <div style="display:inline-block">
-  [![My Skills](https://skillicons.dev/icons?i=js,nodejs,html,css,react,mongodb)](https://skillicons.dev)
-</div>
 
-<div style="display:inline-block; margin-left: 15px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/683px-SAP_2011_logo.svg.png?20241103114958" width="100px">
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,html,css,react,mongodb)](https://skillicons.dev)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/683px-SAP_2011_logo.svg.png?20241103114958" margin-left=15px width=100px>  
+
 </div>
 
 ## Veja minhas métricas - See my stats:
