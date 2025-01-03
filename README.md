@@ -38,11 +38,6 @@ XML   1 hr 31 mins    ███████████████████�
 <!--END_SECTION:waka-->
 
 ##
-<div align="center" style="margin-top: 20px;">
-<a href="https://github.com/rp-honorato">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rp-honorato&layout=compact&langs_count=7&theme=holi"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=rp-honorato&show_icons=true&theme=holi&include_all_commits=true&count_private=true"/>
-</div>
    
 ##
 <div align="center">
