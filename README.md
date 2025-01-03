@@ -25,6 +25,7 @@
 <div style="display:inline-block">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/683px-SAP_2011_logo.svg.png?20241103114958" margin-left=15px width=95px>  
 </div>
+
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,html,css,react,mongodb)](https://skillicons.dev)
 
 
