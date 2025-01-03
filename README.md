@@ -47,5 +47,8 @@ XML   1 hr 31 mins    ███████████████████�
 <img src="https://raw.githubusercontent.com/rp-honorato/rp-honorato/main/profile-summary-card-output/blue_green/0-profile-details.svg" margin=10px width=800px alt="Profile Details">
 </div>
 
-
+<div align="center">
+   ![](https://raw.githubusercontent.com/rp-honorato/rp-honorato/main/profile-summary-card-output/github_dark/3-stats.svg)
+   ![](https://raw.githubusercontent.com/rp-honorato/rp-honorato/main/profile-summary-card-output/github_dark/4-productive-time.svg)
+</div>
 
