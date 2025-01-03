@@ -42,7 +42,6 @@ XML   1 hr 31 mins    ███████████████████�
 <img src="./profile-3d-contrib/profile-night-green.svg" width=800px" alt="Veja minhas métricas - See my stats">
 </div>
 
-##
 <div align="center" style="margin-top: 20px;">
 <img src="https://raw.githubusercontent.com/rp-honorato/rp-honorato/main/profile-summary-card-output/blue_green/0-profile-details.svg" margin=10px width=800px alt="Profile Details">
 </div>
