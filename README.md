@@ -46,3 +46,7 @@ XML   1 hr 31 mins    ███████████████████�
 <div align="center" style="margin-top: 20px;">
 <img src="https://raw.githubusercontent.com/rp-honorato/rp-honorato/main/profile-summary-card-output/blue_green/0-profile-details.svg" margin=10px width=800px alt="Profile Details">
 </div>
+
+[![](./0-profile-details.svg)](https://github.com/v/rp-honorato/github-profile-summary-cards)
+[![](./1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](./2-most-commit-language.svg)](https://github.com/rp-honorato/github-profile-summary-cards)
+[![](./3-stats.svg)](https://github.com//rp-honorato/github-profile-summary-cards) [![](./4-productive-time.svg)](https://github.com/rp-honorato/github-profile-summary-cards)
