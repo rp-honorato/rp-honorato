@@ -47,6 +47,68 @@ XML   1 hr 31 mins    ███████████████████�
 <img src="https://raw.githubusercontent.com/rp-honorato/rp-honorato/main/profile-summary-card-output/blue_green/0-profile-details.svg" margin=10px width=800px alt="Profile Details">
 </div>
 
-[![](./0-profile-details.svg)](https://github.com/v/rp-honorato/github-profile-summary-cards)
-[![](./1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](./2-most-commit-language.svg)](https://github.com/rp-honorato/github-profile-summary-cards)
-[![](./3-stats.svg)](https://github.com//rp-honorato/github-profile-summary-cards) [![](./4-productive-time.svg)](https://github.com/rp-honorato/github-profile-summary-cards)
+## blue_green
+
+[![](./0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](./1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](./2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](./3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](./4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+### Now you can add this to your markdown
+```
+
+[![](https://raw.githubusercontent.com/rp-honorato/rp-honorato/main/profile-summary-card-output/blue_green/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/rp-honorato/rp-honorato/main/profile-summary-card-output/blue_green/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/rp-honorato/rp-honorato/main/profile-summary-card-output/blue_green/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/rp-honorato/rp-honorato/main/profile-summary-card-output/blue_green/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/rp-honorato/rp-honorato/main/profile-summary-card-output/blue_green/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+```
+
+### Each card usage
+---
+
+![](./0-profile-details.svg)
+
+```
+![](https://raw.githubusercontent.com/rp-honorato/rp-honorato/main/profile-summary-card-output/blue_green/0-profile-details.svg)
+```
+
+    
+
+---
+
+![](./1-repos-per-language.svg)
+
+```
+![](https://raw.githubusercontent.com/rp-honorato/rp-honorato/main/profile-summary-card-output/blue_green/1-repos-per-language.svg)
+```
+
+    
+
+---
+
+![](./2-most-commit-language.svg)
+
+```
+![](https://raw.githubusercontent.com/rp-honorato/rp-honorato/main/profile-summary-card-output/blue_green/2-most-commit-language.svg)
+```
+
+    
+
+---
+
+![](./3-stats.svg)
+
+```
+![](https://raw.githubusercontent.com/rp-honorato/rp-honorato/main/profile-summary-card-output/blue_green/3-stats.svg)
+```
+
+    
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/rp-honorato/rp-honorato/main/profile-summary-card-output/blue_green/4-productive-time.svg)
+```
+
+    
+
