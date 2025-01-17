@@ -47,9 +47,3 @@ No activity tracked
 <img src="https://raw.githubusercontent.com/rp-honorato/rp-honorato/main/profile-summary-card-output/blue_green/0-profile-details.svg" margin=10px width=800px alt="Profile Details">
 </div>
 
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/rp-honorato/rp-honorato/main/profile-summary-card-output/github_dark/3-stats.svg" style="margin: 10px;" width="400px" alt="Profile Details">
-  <img src="https://raw.githubusercontent.com/rp-honorato/rp-honorato/main/profile-summary-card-output/github_dark/4-productive-time.svg" style="margin: 10px;" width="400px" alt="Productive Time">
-</div>
-
